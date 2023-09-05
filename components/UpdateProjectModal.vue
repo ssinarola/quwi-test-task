@@ -127,9 +127,9 @@ button {
 }
 
 textarea {
-    margin-left: 5px;
+    margin-left: 10px;
     padding: 5px;
-    width: 38%;
+    width: 40%;
     line-height: 1.5;
     border-radius: 5px;
     border: 1px solid #ccc;

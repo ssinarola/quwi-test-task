@@ -39,7 +39,7 @@ body {
 }
 
 .logout {
-    color: #252537;
+    color: #fff;
     height: 40px;
     padding: 0 20px;
     background-color: #c44512 !important;
